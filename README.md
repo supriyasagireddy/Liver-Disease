@@ -1,4 +1,4 @@
-# Liver-Disease
+# Lung-Disease
 <h3>Overview of X-rays for disease diagnosis :</h3>
 X-rays are a type of medical imaging technology that uses ionizing radiation to
 produce images of the inside of the body. X-rays are widely used in medicine
